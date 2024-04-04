@@ -1,13 +1,17 @@
 <?php
+
+// localizando as informações 
 $server = '';
 $usuario = '';
 $senha = '';
 $banco = '';
 
+// fazendo a conexao ao banco de dados, nesse caso usei workbench
 $conn = new mysqli($server, $usuario, $senha, $banco);
 
 //verificar conexao com banco
 if ($conn->connect_error) {
+    // aqui vai imprimir caso tenha algum erro na conexão
     die("Conexão falhou: " . $conn->connect_error);
 }
 // este comando vai enviar as informarções para banco, neste caso foi usado para forma de registrar
