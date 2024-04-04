@@ -11,5 +11,5 @@ first repository for that, thanks (tryping
 ![image](https://github.com/luizfrz/estrutura-banco/assets/126346291/775a4d23-3e96-45ef-9a7f-16c95ae4710f)
 
 # Softaware and language  used / Programa e linguagem usada
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="90-px" height="90px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="90px" height="90px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="80px" height="80px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="90px" height="90px" />
                  
